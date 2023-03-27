@@ -1,1 +1,1 @@
-# stamp.gitub.io
+# stampbeta
